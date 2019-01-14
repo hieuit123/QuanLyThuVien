@@ -1,0 +1,21 @@
+20
+XB01&Kim Dong
+XB02&Lao Dong
+XB03&Lao Dong Xa Hoi
+XB04&Chinh Tri Quoc Gia
+XB05&Phu Nu
+XB06&Nong Nghiep 
+XB07&My Thuat
+XB08&Tre
+XB09&Tu Phap
+XB10&Tri Thuc
+XB11&The Gioi
+XB12&The Thao
+XB13&Dai hoc Su Pham
+XB14&Dai hoc Quoc gia TP HCM
+XB15&Am nhac
+XB16&Ton giao
+XB17&Giao duc
+XB18&Giao thong van tai
+XB19&Khoa hoc xa hoi
+XB20&Cuc Bao chi
